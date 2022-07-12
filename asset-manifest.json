@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Workflow-App-Design/static/css/main.56e0ff6d.css",
-    "main.js": "/Workflow-App-Design/static/js/main.1b06f5a5.js",
+    "main.js": "/Workflow-App-Design/static/js/main.93e8a2bf.js",
     "static/media/kanban.jpg": "/Workflow-App-Design/static/media/kanban.d25d1e9740d9914e6518.jpg",
     "static/media/lean.jpg": "/Workflow-App-Design/static/media/lean.8b88f5bfd5c00eba6b8c.jpg",
     "static/media/profile-10.jpg": "/Workflow-App-Design/static/media/profile-10.cc787ab17cef9289ef97.jpg",
     "index.html": "/Workflow-App-Design/index.html",
     "main.56e0ff6d.css.map": "/Workflow-App-Design/static/css/main.56e0ff6d.css.map",
-    "main.1b06f5a5.js.map": "/Workflow-App-Design/static/js/main.1b06f5a5.js.map"
+    "main.93e8a2bf.js.map": "/Workflow-App-Design/static/js/main.93e8a2bf.js.map"
   },
   "entrypoints": [
     "static/css/main.56e0ff6d.css",
-    "static/js/main.1b06f5a5.js"
+    "static/js/main.93e8a2bf.js"
   ]
 }
